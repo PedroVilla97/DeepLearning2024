@@ -1,4 +1,4 @@
-# This is a repoisotory containing the material for the Deep Learning course at Jheronimus Academy of Data Science (JADS)
+# Repoisotory for the Deep Learning course at Jheronimus Academy of Data Science (JADS)
 ## List of contributors:
 - Krzysztof Wiesniakowski
 - Chigozie Ifepe
